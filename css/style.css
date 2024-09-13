@@ -1,0 +1,17 @@
+body {
+  background-color: cadetblue;
+  color: white;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+a {
+  color: darkblue;
+}
+
+footer {
+  text-align: center;
+}
